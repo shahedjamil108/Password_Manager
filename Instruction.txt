@@ -1,0 +1,1 @@
+First create a password.txt file in the folder where password_manager.cpp is saved. Then run the cpp file.
